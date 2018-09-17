@@ -1,14 +1,14 @@
-CIC-style
+EnE-style
 =========
-
-Definição de estilos para LaTeX para uso no [CIC/UnB](https://www.cic.unb.br/).
+Baseado no [CIC-style](https://github.com/UnB-CIC/CIC-style) desenvolvido pelos membros do Departamento de Ciência da 
+Computação da UnB. Traz a definição de estilos para LaTeX para uso no [Departamento de Engenharia Elétrica - FT/UnB](https://www.ene.unb.br/).
 
 Instalação
 ----------
 
 Para instalar, basta seguir os seguintes passos:
 
-- Obter o [arquivo ZIP](https://github.com/gnamos/CIC-style/archive/master.zip).
+- Obter o [arquivo ZIP](https://github.com/stefanomozart/EnE-style/archive/master.zip).
 
 - Descompactar o arquivo para [diretório local](http://tug.org/tds/tds.html) (no caso do [MikTeX](http://miktex.org/), vejam [aqui](http://docs.miktex.org/manual/localadditions.html)).
 
@@ -34,4 +34,4 @@ Utilização
 ----------
 
 Os detalhes estão descritos no arquivo PDF gerado, mas também são criados arquivos
-```.tex``` que exemplificam o uso. Este pacote é complementar a classe [UnBeamer](https://github.com/gnramos/UnBeamer).
+```.tex``` que exemplificam o uso.
