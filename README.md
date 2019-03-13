@@ -13,7 +13,7 @@ Para instalar, basta seguir os seguintes passos:
 - Descompactar o arquivo para [diretório local](http://tug.org/tds/tds.html) (no caso do [MikTeX](http://miktex.org/), vejam [aqui](http://docs.miktex.org/manual/localadditions.html)).
 
 ```bash
-unzip CIC-style-master.zip -d ~/texmf/tex/latex
+unzip EnE-style-master.zip -d ~/texmf/tex/latex
 ```
 
 - Gerar a documentação e os arquivos do pacote.
